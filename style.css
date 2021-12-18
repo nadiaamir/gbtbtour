@@ -378,7 +378,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   background-color: rgb(83, 22, 157);
   background-color: rgba(83, 22, 157,0.8);
 
-  color: rgb(83, 22, 157);
+  color: #fff;
 
   white-space: nowrap;
   text-overflow: ellipsis;
