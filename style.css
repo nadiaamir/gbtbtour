@@ -79,8 +79,7 @@ body.multiple-scenes.mobile #titleBar {
   height: 100%;
   line-height: 30px;
   padding: 5px;
-  background-color: rgb(32, 85, 171);
-  background-color: rgba(32, 85, 171,0.8);
+  background-image: linear-gradient(to right, rgba(83, 22, 157,0.8), rgb(243, 0, 65,0.8))
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
@@ -600,7 +599,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   top: 40px;
   left: 0;
   padding: 10px;
-  background-color: rgb(32, 85, 171);
+  background-color: rgb(83, 22, 157);
   border-bottom-right-radius: 5px;
   border-bottom-left-radius: 5px;
   overflow-y: auto;
@@ -682,8 +681,8 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   right: 10px;
   width: auto;
   height: 50px;
-  background-color: rgb(32, 85, 171);
-  background-color: rgb(32, 85, 171);
+  background-color: rgb(83, 22, 157);
+  background-color: rgb(83, 22, 157);
   opacity: 0;
   -webkit-transition: opacity 0.3s ease-in-out 0.2s;
   transition: opacity 0.3s ease-in-out 0.2s;
@@ -739,7 +738,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   right: 0;
   width: 50px;
   height: 50px;
-  background-color: rgb(32, 85, 171);
+  background-color: rgb(83, 22, 157);
   cursor: pointer;
 }
 
@@ -756,8 +755,8 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   left: 10px;
   right: 10px;
   padding: 10px;
-  background-color: rgb(32, 85, 171);
-  background-color: rgba(32, 85, 171,0.8);
+  background-color: rgb(83, 22, 157);
+  background-color: rgba(83, 22, 157,0.8);
   overflow-y: auto;
   opacity: 0;
   -webkit-transition: opacity 0.3s ease-in-out;
