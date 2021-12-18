@@ -600,7 +600,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   top: 40px;
   left: 0;
   padding: 10px;
-  background-color: rgb(64, 201, 255);
+  background-color: rgb(32, 85, 171);
   border-bottom-right-radius: 5px;
   border-bottom-left-radius: 5px;
   overflow-y: auto;
@@ -682,8 +682,8 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   right: 10px;
   width: auto;
   height: 50px;
-  background-color: rgb(64, 201, 255);
-  background-color: rgb(64, 201, 255);
+  background-color: rgb(32, 85, 171);
+  background-color: rgb(32, 85, 171);
   opacity: 0;
   -webkit-transition: opacity 0.3s ease-in-out 0.2s;
   transition: opacity 0.3s ease-in-out 0.2s;
