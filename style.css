@@ -682,8 +682,8 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   right: 10px;
   width: auto;
   height: 50px;
-  background-image: linear-gradient(to bottom right, rgb(0, 98, 255), rgb(96, 239, 255));
-  background-image: linear-gradient(to bottom right, rgb(0, 98, 255), rgb(96, 239, 255));
+  background-color: rgb(64, 201, 255);
+  background-color: rgb(64, 201, 255);
   opacity: 0;
   -webkit-transition: opacity 0.3s ease-in-out 0.2s;
   transition: opacity 0.3s ease-in-out 0.2s;
