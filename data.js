@@ -183,7 +183,7 @@ var APP_DATA = {
         {
           "yaw": -0.8699207857791471,
           "pitch": -0.14789752222800878,
-          "title": "Feeling Adventerous?",
+          "title": "Feeling Adventurous?",
           "text": "There is a quiet, rocky beach here that photographers love – it gives them a clear view of the ships at sea. Head on over for a look!"
         }
       ]
